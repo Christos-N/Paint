@@ -25,3 +25,5 @@ To use this program, follow these steps:
 3. Draw and paint anything on the canvas
 4. Use the predefined images (optional)
 5. Alter drawing speed (optional)
+
+Note: This project was created in 2020 and some aspects of it may be outdated.
